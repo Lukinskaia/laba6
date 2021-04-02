@@ -9,12 +9,15 @@
     height:300px;
     }
     #content{
-    background:oldlace;
-    width:525px;
-    height:300px;
-    }
-    #footer{
-    background:darkred;
-    width:715px;
-    height:30px;
-    }
+        background:oldlace;
+width:525px;
+height:300px;
+position:absolute;
+left:190px;
+top:100px;
+}
+#footer{
+background:darkred;
+width:715px;
+height:30px;
+}
