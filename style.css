@@ -1,3 +1,6 @@
-h5, p{
-    display:inline;
+#p2{
+    display:none;
+    }
+    #p4{
+    visibility:hidden;
     }
